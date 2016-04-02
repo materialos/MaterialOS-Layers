@@ -1,4 +1,4 @@
-package com.materialos.layers;
+package com.schnettler.exampleUI;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
