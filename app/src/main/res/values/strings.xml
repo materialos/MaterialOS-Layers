@@ -9,6 +9,6 @@
     <string name="ThemeDescription">Description of your theme</string>
 
     <!-- Changelog -->
-    <string name="ThemeChangelog">First Release!</string>
+    <string name="ThemeChangelog">Settings themed, app should now be installable on Android 5.x.x - 6.0.x</string>
 
 </resources>
