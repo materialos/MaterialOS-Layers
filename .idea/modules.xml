@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MaterialOS-Layers.iml" filepath="$PROJECT_DIR$/MaterialOS-Layers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theme/theme.iml" filepath="$PROJECT_DIR$/theme/theme.iml" />
     </modules>
   </component>
 </project>
