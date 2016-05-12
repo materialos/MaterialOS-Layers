@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.materialos.settings_overlay"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="23" />
+    <overlay android:targetPackage="com.android.settings" android:priority="55"/>
+
+    <meta-data android:name="rom" android:value="AOSP" />
+    <meta-data android:name="infoShort" android:value="Settings" />
+    <meta-data android:name="infoLong" android:value="MaterialOS Settings Overlay" />
+    <meta-data android:name="author" android:value="Jack Boswell (boswelja)" />
+
+</manifest>

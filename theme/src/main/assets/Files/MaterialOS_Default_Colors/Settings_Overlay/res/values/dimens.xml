@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dashboard_category_margin_bottom">0.0dip</dimen>
+    <dimen name="dashboard_category_padding_start">8.0dip</dimen>
+    <dimen name="dashboard_category_padding_end">8.0dip</dimen>
+
+    <dimen name="dashboard_padding_start">0.0dip</dimen>
+    <dimen name="dashboard_padding_end">0.0dip</dimen>
+    <dimen name="dashboard_padding_top">4.0dip</dimen>
+    <dimen name="dashboard_padding_bottom">4.0dip</dimen>
+</resources>
